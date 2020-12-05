@@ -1,0 +1,6 @@
+auto-sklearn
+h2o
+tpot
+featuretools
+seaborn
+matplotlib

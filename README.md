@@ -40,7 +40,7 @@ Following steps are required to install necessary packages
 Install python packages mentioned above using pip command
 
 ```
-pip install <package_name>
+pip install requirements.txt
 ```
 
 
